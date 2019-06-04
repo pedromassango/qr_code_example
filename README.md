@@ -2,7 +2,7 @@
 
 A new Flutter project to show how to generate a qr code.
 
-[Preview](screenshot/shot.png)
+<img src="/screenshot/shot.png" width="260" height="480">
 
 ## Getting Started
 
