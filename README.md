@@ -2,6 +2,8 @@
 
 A new Flutter project to show how to generate a qr code.
 
+[Preview](screenshot/shot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
